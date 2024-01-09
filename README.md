@@ -43,9 +43,10 @@ I'm an owner of a MSP and do post YouTube videos randomly but in my spare time I
 <p>📺 Latest YouTube Videos</p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
-
-
+[![How To Install MacOS Ventura in VMware](https://ytcards.demolab.com/?id=PEyYyKF2AuI&title=How+To+Install+MacOS+Ventura+in+VMware&lang=en&timestamp=1681412409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How To Install MacOS Ventura in VMware")](https://www.youtube.com/watch?v=PEyYyKF2AuI)
+[![How To Install Pi-Hole On A Raspberry Pi](https://ytcards.demolab.com/?id=u9yEU9QEgo4&title=How+To+Install+Pi-Hole+On+A+Raspberry+Pi&lang=en&timestamp=1669259998&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How To Install Pi-Hole On A Raspberry Pi")](https://www.youtube.com/watch?v=u9yEU9QEgo4)
+[![How To Get Free Website Hosting! FREE FOREVER!](https://ytcards.demolab.com/?id=1_2K2QuEgoE&title=How+To+Get+Free+Website+Hosting%21+FREE+FOREVER%21&lang=en&timestamp=1669002854&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How To Get Free Website Hosting! FREE FOREVER!")](https://www.youtube.com/watch?v=1_2K2QuEgoE)
+[![How to Get a Free Domain Name! NO GIMMICKS!](https://ytcards.demolab.com/?id=Ua3fbCSHu7Q&title=How+to+Get+a+Free+Domain+Name%21+NO+GIMMICKS%21&lang=en&timestamp=1666740502&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Get a Free Domain Name! NO GIMMICKS!")](https://www.youtube.com/watch?v=Ua3fbCSHu7Q)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
