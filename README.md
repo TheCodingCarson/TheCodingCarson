@@ -11,7 +11,7 @@ I'm an owner of a MSP and do post YouTube videos randomly but in my spare time I
 <img alt="Youtube Views" title="YouTube Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCY5lbh9Y4Wl9B1zqqGZ_SAw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
 <a href="https://github.com/ForrestKnight?tab=followers">
 <img alt="GitHub Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TheCodingCarson?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+<a href="https://github.com/TheCodingCarson?tab=repositories&sort=stargazers">
 <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TheCodingCarson?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
